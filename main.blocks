@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="xmTHFto8-.Y9|dTEd7Jk" x="255" y="-184"><statement name="HANDLER"><block type="device_print_message" id="xgF+$R$S5A#{HLGdPj7l"><value name="text"><shadow type="text" id=":EC|vZjSR.wie!DWZFll"><field name="TEXT">Teacher wafaa</field></shadow></value></block></statement></block><block type="pxt-on-start" id="uz.dM4h5W3tp?;z,5~4r" x="545" y="-81"><statement name="HANDLER"><block type="device_show_leds" id="+q4TJmmc?D:1mIts#$ab"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . . 
+        # # # # # 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="Mq7blOb%e9`,/9Ptw/R1" x="229" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_arrow" id="tM?4JAenWT-^e_xw%A]q"><value name="i"><shadow type="device_arrow" id="pXzPMbUYMw.HK2^6h9l."><field name="arrow">ArrowNames.North</field></shadow></value></block></statement></block></xml>
